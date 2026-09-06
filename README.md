@@ -1,6 +1,6 @@
-# Professional Full-Stack Developer Portfolio
+# Professional Frontend Developer Portfolio
 
-A clean, modern, and responsive personal portfolio website built with semantic HTML, CSS Flexbox/Grid, and vanilla JavaScript. Designed specifically for full-stack developers to showcase their projects, technical skills, education, and professional experience without any heavy frameworks or third-party AI widgets.
+A clean, modern, and responsive personal portfolio website built with semantic HTML, CSS Flexbox/Grid, and vanilla JavaScript. Designed specifically for Frontend developers to showcase their projects, technical skills, education, and professional experience without any heavy frameworks or third-party AI widgets.
 
 ## Features
 
